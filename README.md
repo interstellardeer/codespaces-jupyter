@@ -67,4 +67,4 @@ or use
 - [Python Documentation](https://docs.python.org/3/)
 - [W3Schools](https://www.w3schools.com/python/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- [Kelas Terbuka](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+- [Kelas Terbuka](https://www.youtube.com/@KelasTerbuka)
